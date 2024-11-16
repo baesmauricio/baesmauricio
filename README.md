@@ -4,7 +4,7 @@ Usa este espacio para presentarte y contar a la comunidad de GitHub cuál es tu 
 
 **Ejemplo de resumen de Linkedin:**
 
-Soy un **[Kinesiologo, Magister en ciencias medicas y biologicas, mencion Neurociencias (c), y Desarrollador Full Stack | Especialista en Frontend Developer]** con experiencia en unidad de cuidados intensivos medico y tecnologías principales tales como: React, Node.js]. Me especializo en crear aplicaciones web escalables y encontrar soluciones tecnologicas innovadoras a problemas observados en el area de la salud.
+Soy un Kinesiologo, Magister en ciencias medicas y biologicas, mencion Neurociencias (c), y Desarrollador Full Stack | Especialista en Frontend Developer]** con experiencia en unidad de cuidados intensivos medico y tecnologías principales tales como: React, Node.js]. Me especializo en crear aplicaciones web escalables y encontrar soluciones tecnologicas innovadoras a problemas observados en el area de la salud.
 
 Actualmente, estoy buscando nuevas oportunidades donde pueda aportar mis habilidades y mi experiencia para seguir creciendo profesionalmente.
 
